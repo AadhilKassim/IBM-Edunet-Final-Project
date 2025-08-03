@@ -38,16 +38,16 @@ Develop a predictive maintenance model for a fleet of industrial machines to ant
 
 #### Pipeline Comparison & Metrics
 
-![Pipeline Comparison](attachments/5e2e6a6e-9e2c-4e7e-8c8e-4e2e8e8e8e8e.png)
+![Pipeline Comparison](screencapture-au-syd-dai-cloud-ibm-ml-auto-ml-acdcb95d-2adf-47ba-a8da-29970de12809-train-2025-08-03-13_07_34.png)
 
 #### Experiment Progress & Log
 
-![Experiment Progress](attachments/2e2e6a6e-9e2c-4e7e-8c8e-4e2e8e8e8e8e.png)
+![Experiment Progress](screencapture-au-syd-dai-cloud-ibm-ml-auto-ml-acdcb95d-2adf-47ba-a8da-29970de12809-train-2025-08-03-13_06_42.png)
 
 #### Relationship Map & Leaderboard
 
-![Relationship Map](attachments/3e2e6a6e-9e2c-4e7e-8c8e-4e2e8e8e8e8e.png)
-![Pipeline Leaderboard](attachments/4e2e6a6e-9e2c-4e7e-8c8e-4e2e8e8e8e8e.png)
+![Relationship Map](screencapture-au-syd-dai-cloud-ibm-ml-auto-ml-acdcb95d-2adf-47ba-a8da-29970de12809-train-2025-08-03-13_05_39.png)
+![Pipeline Leaderboard](screencapture-au-syd-dai-cloud-ibm-ml-auto-ml-acdcb95d-2adf-47ba-a8da-29970de12809-train-2025-08-03-13_06_02.png)
 
 ## Credentials
 
